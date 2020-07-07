@@ -1,0 +1,12 @@
+<super-manifest>
+  <board-manifest-list>
+    <board-manifest>
+      <uri>https://github.com/cypresssemiconductorco/mtb-psoc4-manifest/raw/v2.X/mtb-psoc4-bsp-manifest.xml</uri>
+    </board-manifest>
+  </board-manifest-list>
+  <middleware-manifest-list>
+    <middleware-manifest>
+      <uri>https://github.com/cypresssemiconductorco/mtb-psoc4-manifest/raw/v2.X/mtb-psoc4-mw-manifest.xml</uri>
+    </middleware-manifest>
+  </middleware-manifest-list>
+</super-manifest>

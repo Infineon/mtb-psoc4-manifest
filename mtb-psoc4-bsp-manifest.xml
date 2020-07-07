@@ -1,0 +1,35 @@
+<boards>
+  <board>
+    <id>CY8CKIT-149</id>
+    <category>PSoC 4 BSPs</category>
+    <board_uri>https://github.com/cypresssemiconductorco/TARGET_CY8CKIT-149</board_uri>
+    <chips>
+      <mcu>CY8C4147AZI-S475</mcu>
+    </chips>
+    <name>CY8CKIT-149</name>
+    <summary>The PSoC 4100S Plus Prototyping Kit enables you to evaluate the PSoC 4100S Plus device and develop with Cypress's fourth-generation, low-power CapSense solution.</summary>
+    <prov_capabilities>psoc4 mcu_gp j2 led switch capsense capsense_button capsense_linear_slider ble smart_io</prov_capabilities>
+    <description><![CDATA[
+        <div class="category">Kit Features:</div><ul>
+        <li>World's Most Reliable, Lowest Power CapSense Solution</li>
+        <li>On-board Programmer and Debugger</li>
+        </ul><p/>
+
+        <div class="category">Kit Contents:</div><ul>
+        <li>CY8CKIT-149 PSoC 4100S Plus Prototyping board</li>
+        <li>Quick Start Guide</li>
+        </ul>
+      ]]></description>
+    <documentation_url>https://www.cypress.com/documentation/development-kitsboards/cy8ckit-149-psoc-4100s-plus-prototyping-kit</documentation_url>
+    <versions>
+      <version>
+        <num>Latest 0.X release</num>
+        <commit>latest-v0.X</commit>
+      </version>
+      <version>
+        <num>0.5.0 release</num>
+        <commit>release-v0.5.0</commit>
+      </version>
+    </versions>
+  </board>
+</boards>

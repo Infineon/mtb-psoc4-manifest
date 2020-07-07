@@ -1,0 +1,62 @@
+<middleware>
+  <middleware>
+    <name>psoc4pdl</name>
+    <id>psoc4pdl</id>
+    <uri>https://github.com/cypresssemiconductorco/psoc4pdl</uri>
+    <desc>The PSoC 4 Peripheral Driver Library (PDL) integrates device header files, startup code, and low-level peripheral drivers into a single package.</desc>
+    <category>PSoC 4 Base Libraries</category>
+    <req_capabilities>psoc4</req_capabilities>
+    <versions>
+      <version>
+        <num>Latest 0.X release</num>
+        <commit>latest-v0.X</commit>
+        <desc>Latest 0.X release</desc>
+      </version>
+      <version>
+        <num>0.5.0 release</num>
+        <commit>release-v0.5.0</commit>
+        <desc>0.5.0 release</desc>
+      </version>
+    </versions>
+  </middleware>
+  <middleware>
+    <name>psoc4hal</name>
+    <id>psoc4hal</id>
+    <uri>https://github.com/cypresssemiconductorco/psoc4hal</uri>
+    <desc>PSoC 4 Hardware Abstraction Layer package, provides a set of APIs to initialize, configure, and use the PSoC 4 MCU resources using the Cypress defined Hardware Abstraction Layer.</desc>
+    <category>PSoC 4 Base Libraries</category>
+    <req_capabilities>psoc4</req_capabilities>
+    <versions>
+      <version>
+        <num>Latest 0.X release</num>
+        <commit>latest-v0.X</commit>
+        <desc>Latest 0.X release</desc>
+      </version>
+      <version>
+        <num>0.5.0 release</num>
+        <commit>release-v0.5.0</commit>
+        <desc>0.5.0 release</desc>
+      </version>
+    </versions>
+  </middleware>
+  <middleware>
+    <name>psoc4make</name>
+    <id>psoc4make</id>
+    <uri>https://github.com/cypresssemiconductorco/psoc4make</uri>
+    <desc>PSoC 4 Base Build Library.</desc>
+    <category>PSoC 4 Base Libraries</category>
+    <req_capabilities>psoc4</req_capabilities>
+    <versions>
+      <version>
+        <num>Latest 0.X release</num>
+        <commit>latest-v0.X</commit>
+        <desc>Latest 0.X release</desc>
+      </version>
+      <version>
+        <num>0.5.0 release</num>
+        <commit>release-v0.5.0</commit>
+        <desc>0.5.0 release</desc>
+      </version>
+    </versions>
+  </middleware>
+</middleware>
